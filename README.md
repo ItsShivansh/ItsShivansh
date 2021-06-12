@@ -2,6 +2,7 @@
 <h3 align="center">A Boy trying to Figure-out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsshivansh&label=Profile%20views&color=0e75b6&style=flat" alt="itsshivansh" /> </p>
+<img align="right" src="https://www.google.com/search?q=coding+boy+animated+image&tbm=isch&ved=2ahUKEwiD9MSTyZLxAhXZFbcAHdhyALQQ2-cCegQIABAA&oq=coding+boy+animated+image&gs_lcp=CgNpbWcQAzoECCMQJzoCCAA6BAgAEEM6BggAEAcQHjoECAAQGFCHA1jYI2DcJmgAcAB4AIAB1wKIAZkWkgEHMC44LjMuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=WujEYIPfJ9mr3LUP2OWBoAs&safe=active#imgrc=Q9Q7AIECZaydeM" alt="itsshivansh" />
 
 - 🔭 I’m currently working on **Health Care ( Health emergency & disease prediction )**
 
